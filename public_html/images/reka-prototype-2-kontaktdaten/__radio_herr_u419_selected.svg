@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" viewBox="708 461  20 20" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="711.415288567802" y1="464.421342959798" x2="728" y2="481" id="LinearGradient29">
+      <stop id="Stop30" stop-color="#005187" offset="0" />
+      <stop id="Stop31" stop-color="#005187" offset="0.16" />
+      <stop id="Stop32" stop-color="#113180" offset="1" />
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="3.41528856780172" y1="3.42134295979758" x2="20" y2="20" id="LinearGradient33">
+      <stop id="Stop34" stop-color="#005187" offset="0" />
+      <stop id="Stop35" stop-color="#005187" offset="0.16" />
+      <stop id="Stop36" stop-color="#113180" offset="1" />
+    </linearGradient>
+  </defs>
+  <path d="M 718 461  C 723.6 461  728 465.4  728 471  C 728 476.6  723.6 481  718 481  C 712.4 481  708 476.6  708 471  C 708 465.4  712.4 461  718 461  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+  <path d="M 718 461.5  C 723.32 461.5  727.5 465.68  727.5 471  C 727.5 476.32  723.32 480.5  718 480.5  C 712.68 480.5  708.5 476.32  708.5 471  C 708.5 465.68  712.68 461.5  718 461.5  Z " stroke-width="1" stroke="url(#LinearGradient29)" fill="none" />
+  <path d="M 718 476  C 715.2 476  713 473.8  713 471  C 713 468.2  715.2 466  718 466  C 720.8 466  723 468.2  723 471  C 723 473.8  720.8 476  718 476  " fill-rule="nonzero" fill="url(#LinearGradient33)" stroke="none" />
+</svg>
